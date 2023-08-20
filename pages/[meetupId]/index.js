@@ -1,7 +1,9 @@
+
 import { Fragment } from "react";
 import MeetupDetail from "../../components/meetups/Meetupdetail";
 
 function MeetupDetails() {
+  
   return (
     <Fragment>
       <MeetupDetail
